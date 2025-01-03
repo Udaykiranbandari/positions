@@ -1,0 +1,104 @@
+.outerbox
+{
+    width: 300px;
+    height: 300px;
+    border: 2px solid blue;
+    position: relative;
+}
+.innerbox
+{
+    width: 150px;
+    height: 150px;
+    border: 2px solid purple;
+    position: absolute;
+    right: 80px;
+    bottom:80px;
+    
+}
+.card
+{
+    width: 300px;
+    height: 300px;
+    border: 2px solid green;
+    position: relative;
+}
+.icon
+{
+    width: 80px;
+    height: 80px;
+    border: 2px solid olivedrab;
+    position: absolute;
+    bottom:0px;
+    right:0px;
+}
+.tooltip-container
+{
+    width: 250px;
+    height: 250px;
+    border: 2px solid blueviolet;
+    position: relative;
+}
+.tooltip
+{
+    height: 100px;
+    width: 100px;
+    border: 2px solid orange;
+    position: absolute;
+    left: 50px;
+    top: 10px;
+}
+.button
+{
+
+    position: relative;
+    left: 70px;
+}
+.avatar-container
+{
+    height: 250px;
+    width: 250px;
+    border: 2px solid blue;
+    position: relative;
+    top:0px;
+}
+.badge
+{
+    height: 80px;
+    width: 80px;
+    border: 2px solid red;
+    position: absolute;
+    left: 160px;
+    top: 8px;
+}
+.avatarimage
+{
+    height: 230px;
+    width: 230px;
+    border: 2px solid black;
+    position: absolute;
+   left: 10px;
+   bottom: 10px;
+    
+}
+.image-container
+{
+    height: 300px;
+    width: 300px;
+    border: 2px solid orangered;
+    position: relative;
+}
+.overlay
+{
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 0px;
+    left: 60px;
+    font-size: 50px ;   
+}
+.image
+{
+    height:295px;
+    width: 295px;
+
+}
